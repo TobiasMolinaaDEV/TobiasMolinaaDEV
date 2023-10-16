@@ -10,7 +10,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-<a href="https://www.gifsanimados.org/cat-lineas-562.htm"><img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0370.gif" border="0" alt="linea-imagen-animada-0370" /></a>
+<p align="center">
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
 
 ## Sobre mi
 
