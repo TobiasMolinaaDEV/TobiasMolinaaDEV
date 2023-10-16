@@ -152,7 +152,7 @@ https://youtube.com/aristidevs?sub_confirmation=1-->
 </div>
 <br>
 -->
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
@@ -162,6 +162,8 @@ https://youtube.com/aristidevs?sub_confirmation=1-->
 </a>
 </p>
 
+---
+[![](https://visitcount.itsvg.in/api?id=TobiasMolinaaDEV&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **TobiasMolinaaDEV/TobiasMolinaaDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
