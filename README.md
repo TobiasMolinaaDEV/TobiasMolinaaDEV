@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 <div align="center">
-<h1 align="center">Hola, soy ZenlarX 👋</h1>
-  <p align="center">
+<h1 align="center">Hola, soy ZenlarX 👋
+<p align="center">
   <a href="https://github.com/TobiasMolinaaDEV"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+</h1>
+
+  
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
@@ -12,10 +15,6 @@
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
-
-<p align="center">
-  <a href="https://github.com/TobiasMolinaaDEV"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
 
 
 ## Sobre mi
