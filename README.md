@@ -10,6 +10,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
+<a href="https://www.gifsanimados.org/cat-lineas-562.htm"><img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0370.gif" border="0" alt="linea-imagen-animada-0370" /></a>
+
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
