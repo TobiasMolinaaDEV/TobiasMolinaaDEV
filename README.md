@@ -1,7 +1,7 @@
- ### Hi there 👋
+
 <div align="center">
 
-<h1 align="center">Hola, soy ZenlarX <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>                   
+<h1 align="center""> Hi👋, I'm Tobias Molina </h1>           
 <p align="center">
   <a href="https://github.com/TobiasMolinaaDEV"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20|%20Angular%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -9,24 +9,23 @@
 </div>
 
 
-## About me!
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **About me!**
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+34k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 🧉 Argentino.
+- 👨‍💻 Front end developer.
+- 🎥 videogame content creator [Youtube](https://www.youtube.com/channel/UCq-d8Xuc2N4YvU-9mQjV6UQ?sub_confirmation=1) (+5k subs).
+- 📃 Personal Website  (🔨 Website in construction...).
+
 <br>
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-moschino-molina-2a2086259/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tobo.molina.1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tobias_molina_ok/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-moschino-molina-2a2086259/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Zenlarx)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UCq-d8Xuc2N4YvU-9mQjV6UQ?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/Zenlarx1)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/TobiasMolinaaDEV)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq-d8Xuc2N4YvU-9mQjV6UQ?label=Youtube)
+
+
 <!--https://www.youtube.com/channel/UCq-d8Xuc2N4YvU-9mQjV6UQ
 https://youtube.com/aristidevs?sub_confirmation=1-->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
