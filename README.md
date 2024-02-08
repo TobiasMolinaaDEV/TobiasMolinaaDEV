@@ -12,7 +12,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **About me!**
 
 - 🧉 Argentino.
-- 👨‍💻 Front end developer.
+- 👨‍💻 Front-end developer.
 - 🎥 videogame content creator [Youtube](https://www.youtube.com/channel/UCq-d8Xuc2N4YvU-9mQjV6UQ?sub_confirmation=1) (+5k subs).
 - 📃 Personal Website  (🔨 Website in construction...).
 
